@@ -1,0 +1,26 @@
+{
+    "basics":
+    {
+        "name":"vasu",
+        "age":19,
+        "email":"balasrinivas1708@gmail.com",
+        "mobile_no":"+91 9490923733",
+        "Education":
+        [
+            {
+                "degree":"SSC",
+                "percentage":97
+            },
+            {
+                "degree":"INTER",
+                "percentage":96.3
+            },
+            {
+                "degree":"B.TECH",
+                "percentage":85
+            }
+
+        ]
+
+    }
+}
